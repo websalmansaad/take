@@ -1,0 +1,431 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /* nav + hero  css start  */
+
+    /* nav css start  */
+    /* nav css end  */
+
+    /* hero css start  */
+    .hero_content {
+        text-align: center;
+    }
+
+    .hero_img {
+        display: none;
+    }
+
+    /* hero css end  */
+
+    /* nav + hero css end  */
+
+    /* about css start  */
+    .about_cont {
+        text-align: center;
+        padding-bottom: 0;
+    }
+
+    .about_cont h4 {
+        font-size: 30px;
+    }
+
+    .about_cont_2 {
+        text-align: center;
+        margin-bottom: 100px;
+    }
+
+    .about_cont_2 p:nth-child(1) {
+        margin-top: 20px;
+    }
+
+    /* about css end  */
+
+    /* feature css start  */
+    .feature_img_2 br {
+        display: none;
+    }
+
+    /* feature css end  */
+
+    /* details css start */
+    #details {
+        text-align: center;
+    }
+
+    .details_heading h4 {
+        font-size: 32px;
+        margin-bottom: 30px;
+    }
+
+    .details_card h6 {
+        margin-top: 30px;
+    }
+
+    .details_2_content br {
+        display: none;
+    }
+
+    /* details css end */
+
+    /* details2 css start */
+    .details_2_content {
+        margin-top: 100px;
+    }
+
+    .details_2_content h4 {
+        font-size: 48px;
+    }
+
+    .details_2_content h4 {
+        font-size: 32px;
+    }
+
+    .details_2_content {
+        margin-top: 100px;
+    }
+
+    #details_2 {
+        text-align: center;
+    }
+
+    /* details2 css end */
+
+    /* reason css start  */
+    .reason_heading h4 {
+        font-size: 26px;
+    }
+
+    #reason {
+        text-align: center;
+        padding-bottom: 50px;
+    }
+
+    .reason_card p {
+        margin-bottom: 50px;
+    }
+
+    /* reason css end  */
+
+    /* plan css start  */
+    #plan {
+        text-align: center;
+        padding-bottom: 80px;
+    }
+
+    .plan_header_1 {
+        margin: 0 auto;
+    }
+
+    .plan_header_2 {
+        margin: 0 auto;
+    }
+
+    .plan_card ul {
+        justify-content: center;
+    }
+
+    /* plan css end  */
+
+    /* footer css start  */
+    .footer_heading {
+        text-align: center;
+    }
+
+    .footer_nav {
+        text-align: center;
+    }
+
+    .footer_form h4 {
+        text-align: center;
+    }
+
+    .footer_form [type="email"] {
+        width: 258px;
+    }
+
+    .footer_form p {
+        text-align: center;
+    }
+
+    /* footer css end  */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* nav + hero  css start  */
+
+    /* nav css start  */
+    /* nav css end  */
+
+    /* hero css start  */
+    .hero_content {
+        text-align: center;
+    }
+
+    .hero_img {
+        display: none;
+    }
+
+    /* hero css end  */
+
+    /* nav + hero css end  */
+
+    /* about css start  */
+    .about_cont {
+        padding-bottom: 0;
+        text-align: center;
+    }
+
+    .about_cont_2 p:nth-child(1) {
+        margin-top: 20px;
+    }
+
+    .about_cont_2 {
+        margin-bottom: 80px;
+    }
+
+    /* about css end  */
+
+    /* feature css start  */
+    .feature_img_2 br {
+        display: none;
+    }
+
+    .feature_img_2 a {
+        margin-top: 5px;
+    }
+
+    /* feature css end  */
+
+    /* details css start */
+    #details {
+        text-align: center;
+    }
+
+    .details_card p {
+        margin-bottom: 30px;
+    }
+
+    /* details css end */
+
+    /* details2 css start */
+    .details_2_content br {
+        display: none;
+    }
+
+    #details_2 {
+        margin-top: 90px;
+        text-align: center;
+    }
+
+    .details_2_content h4 {
+        font-size: 43px;
+    }
+
+    style.css .details_2_content h4 {
+        font-size: 36px;
+    }
+
+    .details_2_content {
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    /* details2 css end */
+
+    /* reason css start  */
+    #reason {
+        text-align: center;
+        padding-bottom: 70px;
+    }
+
+    .reason_card p {
+        margin-bottom: 50px;
+    }
+
+    /* reason css end  */
+
+    /* plan css start  */
+    #plan {
+        padding-top: 80px;
+    }
+
+    .plan_card {
+        text-align: center;
+    }
+
+    .plan_header_1 {
+        margin: 0 auto;
+    }
+
+    .plan_card ul {
+        justify-content: center;
+    }
+
+    .plan_header_2 {
+        margin: 0 auto;
+    }
+
+    /* plan css end  */
+
+    /* footer css start  */
+    .footer_heading {
+        text-align: center;
+    }
+
+    .footer_nav {
+        text-align: center;
+    }
+
+    .footer_form {
+        text-align: center;
+    }
+
+    .footer_form h4 {
+        margin-top: 40px;
+    }
+
+    /* footer css end  */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* nav + hero  css start  */
+
+    /* nav css start  */
+    /* nav css end  */
+
+    /* hero css start  */
+    .hero_content p {
+        margin-bottom: 120px;
+    }
+
+    .hero_img img {
+        top: 210px;
+    }
+
+    /* hero css end  */
+
+    /* nav + hero css end  */
+
+    /* about css start  */
+    /* about css end  */
+
+    /* feature css start  */
+    .feature_img_2 a {
+        margin-top: 5px;
+    }
+
+    /* feature css end  */
+
+    /* details css start */
+    #details {
+        text-align: center;
+    }
+
+    .details_card p {
+        padding-bottom: 30px;
+    }
+
+    #details_2 {
+        margin-top: 90px;
+    }
+
+    /* details css end */
+
+    /* details2 css start */
+    .details_2_content br {
+        display: none;
+    }
+
+    .details_2_content h4 {
+        font-size: 42px;
+    }
+
+    /* details2 css end */
+
+    /* reason css start  */
+    /* reason css end  */
+
+    /* plan css start  */
+    /* plan css end  */
+
+    /* footer css start  */
+    .footer_form [type="email"] {
+        width: 238px;
+        }
+    /* footer css end  */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* nav + hero  css start  */
+
+    /* nav css start  */
+    /* nav css end  */
+
+    /* hero css start  */
+    .hero_img img {
+        top: 240px;
+        }
+    /* hero css end  */
+
+    /* nav + hero css end  */
+
+    /* about css start  */
+    /* about css end  */
+
+    /* feature css start  */
+    .feature_img_2 a {
+        margin-top: 55px;
+        }
+    /* feature css end  */
+
+    /* details css start */
+    /* details css end */
+
+    /* details2 css start */
+    /* details2 css end */
+
+    /* reason css start  */
+    /* reason css end  */
+
+    /* plan css start  */
+    /* plan css end  */
+
+    /* footer css start  */
+    /* footer css end  */
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    /* nav + hero  css start  */
+
+    /* nav css start  */
+    /* nav css end  */
+
+    /* hero css start  */
+    /* hero css end  */
+
+    /* nav + hero css end  */
+
+    /* about css start  */
+    /* about css end  */
+
+    /* feature css start  */
+    /* feature css end  */
+
+    /* details css start */
+    /* details css end */
+
+    /* details2 css start */
+    /* details2 css end */
+
+    /* reason css start  */
+    /* reason css end  */
+
+    /* plan css start  */
+    /* plan css end  */
+
+    /* footer css start  */
+    /* footer css end  */
+}
