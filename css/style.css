@@ -31,7 +31,7 @@ body {
 }
 
 /* nav + hero  css start  */
-.nav_hero_bg {
+#hero {
     background: url(../images/hero_bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -462,7 +462,9 @@ body {
     border-radius: 0px 3px 3px 0px;
     background-color: #82CA9C;
 }
-.footer_form button i{
+
+.footer_form button i {
     color: #F3FAF5;
 }
+
 /* footer css end  */
